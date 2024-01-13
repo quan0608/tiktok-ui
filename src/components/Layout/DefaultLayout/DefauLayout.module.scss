@@ -1,0 +1,13 @@
+.wapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    width: var(--default-layout-width);;
+    display: flex;
+}
+
+.content {
+    flex: 1;
+}
